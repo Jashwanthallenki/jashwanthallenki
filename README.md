@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaswanth</h1>
-<h3 align="center">A passionate about AI/ML and web dev</h3>
+<h3 align="center">I am passionate about AI/ML and web dev</h3>
 
 <h1>I'm from India</h1>
 
