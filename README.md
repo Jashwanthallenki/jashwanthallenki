@@ -3,7 +3,7 @@
 
 <h1>I'm from India</h1>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working as **AI INTERN**
 
 - 👯 I’m looking to collaborate on **Innovative Projects**
 
