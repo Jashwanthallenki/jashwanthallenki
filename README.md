@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  <a href="https://leetcode.com/jashwanthallenki/">
+  <a href="https://leetcode.com/u/allenkijashwanth/">
     <img src="https://leetcard.jacoblin.cool/jashwanthallenki?theme=dark&font=Roboto&ext=heatmap" alt="Jashwanth's LeetCode Stats"/>
   </a>
   
