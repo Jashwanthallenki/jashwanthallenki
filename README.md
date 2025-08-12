@@ -14,12 +14,7 @@
 </p>
 
 <div align="center">
-  
-  <a href="https://leetcode.com/u/allenkijashwanth/">
-    <img src="https://leetcard.jacoblin.cool/jashwanthallenki?theme=dark&font=Roboto&ext=heatmap" alt="Jashwanth's LeetCode Stats"/>
-  </a>
-  
-  <br/>
+
 
   <img src="https://github-readme-stats.vercel.app/api?username=jashwanthallenki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Jashwanth's GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanthallenki&layout=compact&theme=tokyonight&hide_border=true" alt="Jashwanth's Top Languages" width="400"/>
