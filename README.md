@@ -44,12 +44,7 @@ TensorFlow | PyTorch | OpenCV | Hugging Face | LangChain | RAG | LLMs
 ![Jashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jashwanthallenki&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jashwanthallenki&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jashwanthallenki&theme=tokyonight)  
-
-🐍 **Watch the snake eat my contributions!**  
-![snake gif](https://github.com/Jashwanthallenki/Jashwanthallenki/blob/output/github-contribution-grid-snake.svg)  
-
+ 
 ---
 
 ### 🏆 GitHub Trophies  
