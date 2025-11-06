@@ -3,8 +3,7 @@
 Innovating at the intersection of **AI**, **Multi-Agent Systems**, and **Full-Stack Development** ⚡🤖  
 Designing intelligent systems, automation pipelines, and AI-powered solutions that push the limits 🚀  
 
-🌍 Based in **Hyderabad, India**  
-🖥️ Portfolio: [https://jashwanthallenki.github.io/](https://jashwanthallenki.github.io/)  
+🌍 Based in **Hyderabad, India**   
 ✉️ Email: **jashwanthallenki@gmail.com**  
 
 ---
