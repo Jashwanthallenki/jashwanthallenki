@@ -75,6 +75,11 @@ Designing intelligent systems, automation pipelines, and AI-powered solutions th
 
 ---
 
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jashwanthallenki&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ### 📌 Let's Connect
 I’m always open to **collaboration, knowledge-sharing, and innovative solutions**.  
 Reach out via **email** or **LinkedIn**!
