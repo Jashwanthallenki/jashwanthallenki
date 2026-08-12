@@ -1,481 +1,84 @@
-# ⚡ JASHWANTH ALLENKI
+# 👋 Hello, I'm Jashwanth Allenki  
 
-<div align="center">
+Innovating at the intersection of **AI**, **Multi-Agent Systems**, and **Full-Stack Development** ⚡🤖  
+Designing intelligent systems, automation pipelines, and AI-powered solutions that push the limits 🚀  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=JASHWANTH%20ALLENKI&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=AI%20SYSTEMS%20%7C%20AGENTIC%20AI%20%7C%20DISTRIBUTED%20SYSTEMS&descAlignY=58&descSize=17&descColor=58A6FF&color=0:0D1117,50:111827,100:050505" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=ENGINEERING+INTELLIGENT+SYSTEMS;BUILDING+AGENT+RUNTIMES;LLMs+%C3%97+DISTRIBUTED+SYSTEMS;MULTI-AGENT+ORCHESTRATION;AUTOMATION+AT+SYSTEMS+SCALE" />
-
-<br><br>
-
-<a href="https://github.com/jashwanthallenki">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:jashwanthallenki@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=jashwanthallenki&style=for-the-badge&color=58A6FF&label=PROFILE+SIGNALS"/>
-
-</div>
+🌍 Based in **Hyderabad, India**   
+✉️ Email: **jashwanthallenki@gmail.com**  
 
 ---
 
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                    JASHWANTH // SYSTEM PROFILE                     ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  STATUS       ● ONLINE                                             ║
-║  MODE         AUTONOMOUS SYSTEMS                                   ║
-║  FOCUS        AI × SYSTEMS ENGINEERING                             ║
-║                                                                    ║
-║  [AI]         LLMs / RAG / Agents / Reasoning                      ║
-║  [SYS]        Distributed Systems / Queues / Caching               ║
-║  [INFRA]      APIs / Microservices / Observability                 ║
-║  [AUTO]       Workflow Automation / AIOps                          ║
-║                                                                    ║
-║  > Don't just call an AI model.                                    ║
-║  > Engineer the system around it.                                  ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-## 🧬 SYSTEM.IDENTITY
-
-I'm a **Computer Science Engineer focused on the intersection of AI and systems engineering**.
-
-My interest isn't limited to building applications that call an LLM.
-
-I'm interested in what happens **around the model**:
-
-```text
-                                                                ┌───────────────────┐
-                                                                │      HUMAN        │
-                                                                └─────────┬─────────┘
-                                                                          │
-                                                                          ▼
-                                                                ┌───────────────────┐
-                                                                │    AI AGENT       │
-                                                                │                   │
-                                                                │  Reasoning        │
-                                                                │  Planning         │
-                                                                │  Memory           │
-                                                                └─────────┬─────────┘
-                                                                          │
-                                                          ┌───────────────┼───────────────┐
-                                                          ▼               ▼               ▼
-                                                    ┌──────────┐    ┌──────────┐    ┌──────────┐
-                                                    │  TOOLS   │    │  AGENTS  │    │  DATA    │
-                                                    └────┬─────┘    └────┬─────┘    └────┬─────┘
-                                                         │               │               │
-                                                         └───────────────┼───────────────┘
-                                                                         ▼
-                                                              ┌─────────────────────┐
-                                                              │    AGENT RUNTIME    │
-                                                              ├─────────────────────┤
-                                                              │ Scheduling          │
-                                                              │ State               │
-                                                              │ Memory              │
-                                                              │ Coordination        │
-                                                              │ Observability       │
-                                                              │ Failure Recovery    │
-                                                              └──────────┬──────────┘
-                                                                         ▼
-                                                              ┌─────────────────────┐
-                                                              │ REAL WORLD SYSTEMS  │
-                                                              └─────────────────────┘
-```
-
-> **My goal:** build intelligent systems where intelligence is not just generated — **it's engineered.**
+## 🔍 About Me
+- Passionate about **AI/ML systems**, **multi-agent architectures**, and **full-stack applications**.  
+- Currently exploring **Generative AI**, **MERN Stack Development**, and **AIOps Automation**.  
+- Open to collaborations on **AI, Full-Stack, and Intelligent Systems** projects.  
 
 ---
 
-# 🛰️ CURRENT MISSION
-
-<div align="center">
-
-|          SYSTEM         |    STATUS   |              DIRECTION              |
-| :---------------------: | :---------: | :---------------------------------: |
-|      🧠 LLM Systems     |   `ACTIVE`  |   Retrieval, reasoning, inference   |
-|      🤖 Agentic AI      |   `ACTIVE`  |         Autonomous workflows        |
-| 🕸️ Multi-Agent Systems  |   `ACTIVE`  |     Coordination & communication    |
-|     ⚙️ Agent Runtime    | `EXPLORING` | Scheduling, memory, fault tolerance |
-|     🎙️ Voice Agents     | `EXPLORING` |  Low-latency real-time interaction  |
-| 🏗️ Distributed Systems  |   `ACTIVE`  |     Event-driven infrastructure     |
-|      🔄 Automation      |   `ACTIVE`  |         AI-powered workflows        |
-
-</div>
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jashwanthallenki)
 
 ---
 
-# 🧠 WHAT I ENGINEER
+## 💻 Technical Expertise
 
-<table>
-<tr>
-<td width="25%" align="center">
+### Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🤖 AI
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%236646FF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-LLMs
-RAG
-Agents
-Reasoning
-Embeddings
-AI Automation
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300C1DE.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-</td>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<td width="25%" align="center">
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🕸️ AGENTS
-
-Multi-Agent Systems
-Tool Calling
-Memory
-Planning
-Orchestration
-HITL
-
-</td>
-
-<td width="25%" align="center">
-
-### ⚙️ SYSTEMS
-
-Distributed Services
-Queues
-Caching
-Event-Driven Systems
-Observability
-Fault Recovery
-
-</td>
-
-<td width="25%" align="center">
-
-### 🌐 APPLICATIONS
-
-React
-Node.js
-FastAPI
-MongoDB
-PostgreSQL
-Cloud
-
-</td>
-</tr>
-</table>
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23008CCF.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23428BFF.svg?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-%234CAF50.svg?style=for-the-badge)
 
 ---
 
-# 🚀 SELECTED SYSTEMS
+## 📊 GitHub Stats
+![Jashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jashwanthallenki&show_icons=true&theme=tokyonight)  
 
-## `01` // HYBRIDRAG
-
-### 🧠 Grounded Intelligence Pipeline
-
-A retrieval architecture designed to reduce unsupported LLM generation by combining **semantic retrieval + traditional retrieval + reasoning**.
-
-```text
-                                                                    USER QUERY
-                                                                        │
-                                                                        ▼
-                                                              ┌─────────────────────┐
-                                                              │ Query Understanding │
-                                                              └──────────┬──────────┘
-                                                                         │
-                                                                    ┌────┴─────┐
-                                                                    ▼          ▼
-                                                            Vector Search  Keyword Search
-                                                                    │          │
-                                                                    └────┬─────┘
-                                                                         ▼
-                                                                  Context Fusion
-                                                                         │
-                                                                         ▼
-                                                                  ┌─────────────┐
-                                                                  │ LLM Reasoner│
-                                                                  └──────┬──────┘
-                                                                         ▼
-                                                                  GROUNDED ANSWER
-```
-
-**Stack**
-
-`LangGraph` `Pinecone` `Gemini` `Python` `RAG`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jashwanthallenki&layout=compact&theme=tokyonight)  
 
 ---
 
-## `02` // AGENTIC AI INFRASTRUCTURE
-
-### ⚙️ Infrastructure for Intelligent Agents
-
-Worked on distributed infrastructure designed around agents that need to **communicate, discover services, execute workflows, integrate enterprise systems and recover from failures**.
-
-```text
-                                                                   ┌───────────────┐
-                                                                   │    AGENTS     │
-                                                                   └───────┬───────┘
-                                                                           │
-                                                                  ┌────────▼────────┐
-                                                                  │ ORCHESTRATION   │
-                                                                  └────────┬────────┘
-                                                                           │
-                                                            ┌──────────────┼──────────────┐
-                                                            ▼              ▼              ▼
-                                                        Discovery       Messaging      Workflow
-                                                            │              │              │
-                                                            └──────────────┼──────────────┘
-                                                                           ▼
-                                                                 ┌─────────────────┐
-                                                                 │ ENTERPRISE TOOLS│
-                                                                 └─────────────────┘
-```
-
-**Stack**
-
-`Python` `FastAPI` `Node.js` `MongoDB` `PostgreSQL` `Redis` `RabbitMQ` `Docker`
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jashwanthallenki&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## `03` // JOB INTELLIGENCE PLATFORM
-
-### 🎯 From Opportunity → Preparation → Application
-
-A centralized engineering career platform designed around the complete job-search lifecycle.
-
-```text
-                                                                    JOB SOURCES
-                                                                         │
-                                                                         ▼
-                                                                  ┌──────────────┐
-                                                                  │ Aggregation  │
-                                                                  └──────┬───────┘
-                                                                         ▼
-                                                                  ┌──────────────┐
-                                                                  │ Normalization│
-                                                                  └──────┬───────┘
-                                                                         ▼
-                                                                  ┌──────────────┐
-                                                                  │ Personalize  │
-                                                                  └──────┬───────┘
-                                                                         ▼
-                                                                 ┌───────┴────────┐
-                                                                 ▼                ▼
-                                                             PREPARATION       APPLICATION
-                                                                 │                │
-                                                                 └───────┬────────┘
-                                                                         ▼
-                                                                   AI INTERVIEW
-```
-
-**Stack**
-
-`React` `Node.js` `FastAPI` `MongoDB` `Redis` `LLMs`
-
----
-
-# 🧪 EXPERIMENT LAB
-
-Things I'm currently exploring:
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                      AGENT RUNTIME LAB                        │
-├───────────────────────────────────────────────────────────────┤
-│                                                               │
-│  MEMORY                                                       │
-│  ├── Short-term state                                         │
-│  ├── Long-term memory                                         │
-│  └── Context management                                       │
-│                                                               │
-│  ORCHESTRATION                                                │
-│  ├── Agent scheduling                                         │
-│  ├── Tool routing                                             │
-│  └── Multi-agent coordination                                 │
-│                                                               │
-│  RELIABILITY                                                  │
-│  ├── Retry strategies                                         │
-│  ├── Failure recovery                                         │
-│  ├── Observability                                            │
-│  └── Human-in-the-loop                                        │
-│                                                               │
-│  REAL-TIME                                                    │
-│  ├── Voice agents                                             │
-│  ├── Streaming inference                                      │
-│  └── Low-latency interaction                                  │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🧰 TECHNOLOGY MATRIX
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,express,fastapi,pytorch,tensorflow,mongodb,postgres,redis,docker,gcp,git,github&perline=9"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LANGGRAPH-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AUTOGEN-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PINECONE-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_SYSTEMS-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AIOPS-0066FF?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📡 ENGINEERING SIGNALS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jashwanthallenki&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanthallenki&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=jashwanthallenki&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENT.LOG
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jashwanthallenki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION STREAM
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jashwanthallenki/jashwanthallenki/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-# 🧭 ROADMAP
-
-```text
-2026
- │
- ├── ████████████████████  AI / LLM SYSTEMS
- │
- ├── ██████████████████░░  AGENTIC AI
- │
- ├── ███████████████░░░░░  DISTRIBUTED SYSTEMS
- │
- ├── ████████████░░░░░░░░  AGENT RUNTIMES
- │
- ├── ██████████░░░░░░░░░░  VOICE AGENTS
- │
- └── ███████░░░░░░░░░░░░░  AI INFRASTRUCTURE RESEARCH
-```
-
----
-
-# 🌌 THE LONG-TERM VISION
-
-<div align="center">
-
-```text
-                 TODAY
-                   │
-                   ▼
-              ┌─────────┐
-              │   LLM   │
-              └────┬────┘
-                   │
-                   ▼
-             ┌───────────┐
-             │   AGENT   │
-             └─────┬─────┘
-                   │
-                   ▼
-            ┌──────────────┐
-            │ AGENT RUNTIME│
-            └──────┬───────┘
-                   │
-        ┌──────────┼──────────┐
-        ▼          ▼          ▼
-     MEMORY     TOOLS     MULTI-AGENT
-        │          │          │
-        └──────────┼──────────┘
-                   ▼
-          ┌─────────────────┐
-          │ AUTONOMOUS AI   │
-          │ INFRASTRUCTURE  │
-          └─────────────────┘
-```
-
-### **I want to build the infrastructure that lets intelligent systems operate.**
-
-`AI` × `Systems` × `Agents` × `Infrastructure`
-
-</div>
-
----
-
-# 🤝 CONNECT
-
-<div align="center">
-
-I'm interested in:
-
-**AI Infrastructure · Agentic Systems · LLM Applications · Distributed Systems · Automation · Voice AI**
-
-<br>
-
-<a href="mailto:jashwanthallenki@gmail.com">
-<img src="https://img.shields.io/badge/START_A_CONVERSATION-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jashwanthallenki">
-<img src="https://img.shields.io/badge/EXPLORE_THE_SYSTEM-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-```text
-> THINK
-> BUILD
-> DEPLOY
-> OBSERVE
-> ITERATE
-```
-
-### ⚡ Build systems where intelligence is engineered.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:050505,50:111827,100:0D1117"/>
-
-</div>
+### 📌 Let's Connect
+I’m always open to **collaboration, knowledge-sharing, and innovative solutions**.  
+Reach out via **email** or **LinkedIn**!
