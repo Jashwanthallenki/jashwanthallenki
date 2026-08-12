@@ -1,268 +1,84 @@
-# 👋 Hey, I'm Jashwanth Allenki
+# 👋 Hello, I'm Jashwanth Allenki  
 
-<div align="center">
+Innovating at the intersection of **AI**, **Multi-Agent Systems**, and **Full-Stack Development** ⚡🤖  
+Designing intelligent systems, automation pipelines, and AI-powered solutions that push the limits 🚀  
 
-<a href="https://github.com/jashwanthallenki">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=JASHWANTH%20ALLENKI&fontSize=48&fontAlignY=38&animation=twinkling&desc=AI%20%7C%20Multi-Agent%20Systems%20%7C%20Full-Stack&descAlignY=60&descSize=18" width="100%"/>
-</a>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A4%96;Engineering+Multi-Agent+Architectures+%F0%9F%95%B8%EF%B8%8F;Turning+LLMs+into+real-world+systems+%E2%9A%A1;AI+%2B+Backend+%2B+Automation+%F0%9F%9A%80" />
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jashwanthallenki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jashwanthallenki@gmail.com)
-
-</div>
+🌍 Based in **Hyderabad, India**   
+✉️ Email: **jashwanthallenki@gmail.com**  
 
 ---
 
-## 🧠 About Me
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   Jashwanth Allenki                                          │
-│   ─────────────────                                          │
-│   Computer Science Engineer                                  │
-│                                                              │
-│   ⚡ AI / LLM Systems                                        │
-│   🤖 Multi-Agent Architectures                               │
-│   🏗️ Backend & Distributed Systems                           │
-│   🌐 Full-Stack Development                                  │
-│   🔄 Automation & AIOps                                     │
-│                                                              │
-│   I don't just use AI models.                                │
-│   I build systems around them.                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I'm interested in the layer where **AI meets systems engineering** — building applications that can reason, use tools, coordinate with other agents, recover from failures, and automate real-world workflows.
-
-Currently exploring:
-
-`Generative AI` · `Agentic AI` · `LLM Systems` · `RAG` · `Distributed Systems` · `AIOps` · `Full-Stack`
+## 🔍 About Me
+- Passionate about **AI/ML systems**, **multi-agent architectures**, and **full-stack applications**.  
+- Currently exploring **Generative AI**, **MERN Stack Development**, and **AIOps Automation**.  
+- Open to collaborations on **AI, Full-Stack, and Intelligent Systems** projects.  
 
 ---
 
-## ⚡ What I Build
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 AI Systems
-
-LLM applications
-RAG pipelines
-Agentic workflows
-Multi-agent systems
-AI automation
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏗️ Backend Systems
-
-Distributed services
-Event-driven architecture
-APIs & microservices
-Caching & queues
-Data pipelines
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 Full-Stack
-
-React applications
-Node.js services
-FastAPI backends
-MongoDB / PostgreSQL
-Cloud deployments
-
-</td>
-</tr>
-</table>
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jashwanthallenki)
 
 ---
 
-# 🚀 Featured Work
+## 💻 Technical Expertise
 
-### 🧠 HybridRAG
+### Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-> **Making LLM responses more reliable by grounding generation in retrieved information.**
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%236646FF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-Built a hybrid retrieval architecture combining semantic vector search with traditional retrieval and an LLM reasoning layer.
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300C1DE.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-**Stack**
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-`LangGraph` `Pinecone` `Gemini` `Python` `RAG`
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
----
-
-### 🤖 Agentic AI Infrastructure
-
-> **Infrastructure for intelligent agents that need to communicate, coordinate and execute workflows.**
-
-Worked on distributed agent infrastructure involving service discovery, workflow orchestration, enterprise integrations, observability and human-in-the-loop execution.
-
-**Stack**
-
-`Python` `FastAPI` `Node.js` `MongoDB` `PostgreSQL` `Redis` `RabbitMQ` `Docker`
-
----
-
-### 🎯 Job Intelligence Platform
-
-> **From finding opportunities → understanding requirements → preparing → applying.**
-
-A centralized platform designed around the complete software-engineering job preparation workflow with opportunity aggregation, personalized recommendations, preparation systems and AI-powered interviews.
-
-**Stack**
-
-`React` `Node.js` `FastAPI` `MongoDB` `Redis` `LLMs`
-
----
-
-## 🧩 My AI Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,nodejs,express,react,js,ts,java,cpp,mongodb,postgres,redis,docker,gcp,git,github" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/AutoGen-5C2D91?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/AIOps-0066FF?style=for-the-badge&logoColor=white"/>
-
-</div>
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23008CCF.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23428BFF.svg?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-%234CAF50.svg?style=for-the-badge)
 
 ---
 
-# 🌌 Currently Thinking About
+## 📊 GitHub Stats
+![Jashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jashwanthallenki&show_icons=true&theme=tokyonight)  
 
-```text
-                    ┌─────────────────────┐
-                    │     AI AGENTS       │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-        ┌──────────┐     ┌───────────┐    ┌───────────┐
-        │  MEMORY  │     │   TOOLS   │    │ REASONING │
-        └────┬─────┘     └─────┬─────┘    └─────┬─────┘
-             │                 │                │
-             └─────────────────┼────────────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │   AGENT RUNTIME     │
-                    └──────────┬──────────┘
-                               │
-                ┌──────────────┼──────────────┐
-                ▼              ▼              ▼
-           Scheduling     Coordination    Fault Recovery
-```
-
-### My current interests
-
-`Agent Runtime Systems` · `Voice Agents` · `Multi-Agent Coordination` · `Memory Systems` · `Tool Orchestration` · `Low-Latency AI`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jashwanthallenki&layout=compact&theme=tokyonight)  
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jashwanthallenki&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanthallenki&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=jashwanthallenki&theme=tokyonight&hide_border=true" />
-
-</div>
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jashwanthallenki&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jashwanthallenki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Universe
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jashwanthallenki/jashwanthallenki/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-# 📈 The Goal
-
-<div align="center">
-
-### Build systems where intelligence isn't just generated —
-
-### **it's engineered.**
-
-<br>
-
-`AI` × `Systems` × `Agents` × `Automation`
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"/>
-
-</div>
-
----
-
-## 🤝 Let's Build Something
-
-<div align="center">
-
-If you're working on **AI infrastructure, agentic systems, LLM applications, automation, or interesting engineering problems**, let's connect.
-
-<br>
-
-<a href="mailto:jashwanthallenki@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jashwanthallenki">
-<img src="https://img.shields.io/badge/Explore%20My%20Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=jashwanthallenki&style=for-the-badge&color=58A6FF" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Think. Build. Automate. Repeat.
-
-</div>
+### 📌 Let's Connect
+I’m always open to **collaboration, knowledge-sharing, and innovative solutions**.  
+Reach out via **email** or **LinkedIn**!
